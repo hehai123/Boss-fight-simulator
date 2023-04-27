@@ -1,0 +1,18 @@
+{
+  "resourceType": "GMOperaGXOptions",
+  "resourceVersion": "1.0",
+  "name": "operagx",
+  "option_operagx_display_cursor": true,
+  "option_operagx_editUrl": "https://create.gx.games/game/4943c67c-aae0-4da4-be61-2a9b229c90b4/edit",
+  "option_operagx_game_name": "Maple Serene",
+  "option_operagx_guid": "4943c67c-aae0-4da4-be61-2a9b229c90b4",
+  "option_operagx_internalShareUrl": "",
+  "option_operagx_interpolate_pixels": true,
+  "option_operagx_next_version": "1.0.0.0",
+  "option_operagx_publicShareUrl": "",
+  "option_operagx_scale": 0,
+  "option_operagx_team_id": "75a10fc9-1823-499c-86ca-03218786398d",
+  "option_operagx_team_name": "(75a10fc9-1823-499c-86ca-03218786398d) studio",
+  "option_operagx_texture_page": "2048x2048",
+  "option_operagx_version": "0.0.0.0",
+}
